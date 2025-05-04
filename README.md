@@ -1,10 +1,10 @@
 # 🙋‍♂️ hi, i'm Harsh Bhatty
 
 ## 👨‍💻 About Me
-4th year comp-sci major at uofg with a passion for learning
+4th year comp-sci student at uofg with a passion for learning
 
 ## 📫 Let’s Connect
-- LinkedIn: [hbhatty](https://www.linkedin.com/in/harshbhatty2/)
+- [LinkedIn](https://www.linkedin.com/in/harshbhatty2/)
 
 <!--
 **hbhatty/hbhatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
