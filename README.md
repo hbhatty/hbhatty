@@ -1,7 +1,7 @@
 # 🙋‍♂️ hi, i'm Harsh Bhatty
 
 ## 👨‍💻 About Me
-4th year comp-sci student at uofg with a passion for learning
+5th year comp-sci student at uofg who just likes to learn
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/hbhatty/)
